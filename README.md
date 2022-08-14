@@ -1,2 +1,2 @@
 # Air-Skribbl
-Play Skribbl on air using Computer Vision
+A fun game, play Skribbl on air using Computer Vision
